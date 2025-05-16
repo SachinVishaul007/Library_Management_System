@@ -88,3 +88,4 @@ def login(login_data: UserLogin, db: Session = Depends(get_db)):
         "message": "Login successful", 
         "user": user
     }# Add CORS middleware configuration
+# Add get_db dependency
