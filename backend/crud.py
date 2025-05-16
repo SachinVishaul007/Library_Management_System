@@ -138,4 +138,4 @@ def authenticate_user(db: Session, username: str, password: str, role: str):
         # If verification fails or has format issues, return None
         pass
     
-    return None
+    return None# Implement get_books function
