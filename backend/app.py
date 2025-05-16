@@ -90,3 +90,4 @@ def login(login_data: UserLogin, db: Session = Depends(get_db)):
     }# Add CORS middleware configuration
 # Add get_db dependency
 # Add /books/ GET endpoint
+# Add /books/{book_id}/authors/ GET endpoint
