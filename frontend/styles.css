@@ -504,3 +504,4 @@ transform: translate(-50%, -50%);
 @keyframes spin {
 to { transform: rotate(360deg); }
 }
+// Add CSS variables and base reset
