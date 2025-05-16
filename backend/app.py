@@ -93,3 +93,4 @@ def login(login_data: UserLogin, db: Session = Depends(get_db)):
 # Add /books/{book_id}/authors/ GET endpoint
 # Add /transactions/overdue/ GET endpoint
 # Add /books/ POST endpoint
+# Add /transactions/borrow/ POST endpoint
