@@ -144,3 +144,4 @@ def authenticate_user(db: Session, username: str, password: str, role: str):
 # Implement add_new_book stored procedure call
 # Implement borrow_book stored procedure call
 # Implement return_book stored procedure call
+# Add authenticate_user logic
