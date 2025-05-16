@@ -142,3 +142,4 @@ def authenticate_user(db: Session, username: str, password: str, role: str):
 # Implement get_book_authors function
 # Implement get_overdue_transactions function
 # Implement add_new_book stored procedure call
+# Implement borrow_book stored procedure call
