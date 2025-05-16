@@ -309,3 +309,4 @@ document.getElementById('sign-out-btn').addEventListener('click', () => {
     // Redirect to login page
     window.location.href = 'login.html';
 });
+// Add preloader animation logic
