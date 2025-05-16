@@ -315,3 +315,4 @@ document.getElementById('sign-out-btn').addEventListener('click', () => {
 // Add fetch-authors UI logic
 // Add fetch-overdue UI logic
 // Add add-book UI logic
+// Add borrow-book UI logic
