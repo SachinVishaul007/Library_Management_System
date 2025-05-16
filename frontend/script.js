@@ -311,3 +311,4 @@ document.getElementById('sign-out-btn').addEventListener('click', () => {
 });
 // Add preloader animation logic
 // Add user authentication check
+// Add fetch-books UI logic
