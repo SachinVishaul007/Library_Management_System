@@ -317,3 +317,4 @@ document.getElementById('sign-out-btn').addEventListener('click', () => {
 // Add add-book UI logic
 // Add borrow-book UI logic
 // Add return-book UI logic
+// Add sign-out handler
