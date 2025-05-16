@@ -310,3 +310,4 @@ document.getElementById('sign-out-btn').addEventListener('click', () => {
     window.location.href = 'login.html';
 });
 // Add preloader animation logic
+// Add user authentication check
