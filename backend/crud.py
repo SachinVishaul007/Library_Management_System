@@ -139,3 +139,4 @@ def authenticate_user(db: Session, username: str, password: str, role: str):
         pass
     
     return None# Implement get_books function
+# Implement get_book_authors function
