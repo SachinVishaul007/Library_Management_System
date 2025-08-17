@@ -1,7 +1,7 @@
 # Library Management System
 
 **DMDD‑Group‑10**  
-A simple web‑based Library Management System built as part of the Data Management & Database Design (DMDD) course.
+An advanced Library Management System with a dedicated UI, built as part of the Data Management & Database Design (DMDD) course, where the backend framework primarily redirected queries to code logic implemented entirely in .sql files, leveraging Azure SQL Edge with complex triggers, stored procedures, user-defined functions, and views.
 
 ---
 
